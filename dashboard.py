@@ -58,7 +58,7 @@ class Dashboard:
             try:
                 ticker = data
             except IndexError:
-                ticker = 'BTC-USD'
+                ticker = 'AAPL'
                 
         
 

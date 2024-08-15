@@ -9,7 +9,7 @@ today = date.today()
 five_days_ago = today - timedelta(days = 5)
 three_months_ago = today - timedelta(days = 90)
 five_years_ago = today - timedelta(days = 365 * 5)
-one_year_ago = today - timedelta(days =365)
+one_year_ago = today - timedelta(days = 365)
 
 
 
